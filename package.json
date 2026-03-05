@@ -1,0 +1,20 @@
+{
+  "name": "af_lab04",
+  "version": "1.0.0",
+  "description": "AF_lab04",
+  "homepage": "https://github.com/Dilush14/AF_Lab04#readme",
+  "bugs": {
+    "url": "https://github.com/Dilush14/AF_Lab04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilush14/AF_Lab04.git"
+  },
+  "license": "ISC",
+  "author": "Dilushgaran S",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
