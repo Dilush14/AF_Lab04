@@ -1,5 +1,8 @@
 console.log("App is running...");
 
+
+console.log("Sharujan is a good guy");
+
 const fs = require('fs'); 
 fs.readFile('file.txt', 'utf8', function (err, data) { 
 if (err) throw err; 
